@@ -1,0 +1,937 @@
+Name ,Type,CLASS,Country,Displacement,Length,Range,Speed,Armament,Pennant No.,Homeport,Lat,Long,Can destroy,Best Suited for,WEAPONS,RADAR,ENGINE,COMM
+INS Visakhapatnam,Destroyer,Kolkata,India,"7,300 long tons",163 m (535 ft),6000,30 kn (56 km/h; 35 mph),"4 × 8-cell VLS, for a total of 32 Barak 8 missiles  
+2 × 8-cell UVLM for 16 BrahMos missiles 
+1 × OTO Melara 76 mm naval gun
+4 × AK-630 CIWS
+4 × 533 mm Torpedo tubes
+2 × RBU-6000 anti-submarine rocket launchers",D66,Mumbai,19.0821978,72.7410981,"Frigates, Destroyer",Anti Piracy,61,67,94,85
+INS Kolkata,Destroyer,Kolkata,India,7400 long tons,163 m (535 ft),6000,30 kn (56 km/h; 35 mph),"4 × 8-cell VLS, for a total of 32 Barak 8 missiles  
+2 × 8-cell UVLM for 16 BrahMos missiles 
+1 × OTO Melara 76 mm naval gun
+4 × AK-630 CIWS
+4 × 533 mm Torpedo tubes
+2 × RBU-6000 anti-submarine rocket launchers",D63,Mumbai,19.285178,71.848633,"Frigates, Destroyer",Anti Piracy,81,88,84,78
+INS Kochi,Destroyer,Kolkata,India,"7,400 long tons",163 m (535 ft),6000,30 kn (56 km/h; 35 mph),"2 × 8-cell VLS for Barak 8 LR-SAM missiles
+2 × 8-cell UVLM for 16 BrahMos anti-ship and l
+And-attack missiles
+76 mm Oto Melara SRGM gun
+4 × AK-630 CIWS
+2 × twin tube 533mm torpedo launchers
+2 × RBU-6000 anti-submarine rockets",D64,Mumbai,19.3821978,70.7410981,"Frigates, Destroyer",Anti Piracy,53,68,91,86
+INS Chennai,Destroyer,Kolkata,India,"7,400 long tons",163 m (535 ft),6000,30 kn (56 km/h; 35 mph),"4 × 8-cell VLS for Barak 8 LR-SAM missiles
+2 × 8-cell UVLM for 16 BrahMos anti-ship and l
+And-attack missiles
+76 mm Oto Melara SRGM gun
+4 × AK-630 CIWS
+2 × twin tube 533mm torpedo launchers
+2 × RBU-6000 anti-submarine rockets",D65,Mumbai,19.067456,71.8460981,"Frigates, Destroyer",Anti Piracy,80,85,84,80
+INS Mysore,Destroyer,Delhi,India,"6,200 tonnes",163 m (535 ft),4500,32 knots (59 km/h; 37 mph),"16 × Kh-35E SSM
+16 × Barak 1
+2 × Shtil SAM systems (48 missiles)
+100 mm AK-100 gun
+2 × 30 mm AK-630 gatling guns
+2 × RBU-6000 rocket launchers
+Quintuple 533mm torpedo tubes
+2 rails of depth charges",D60,Mumbai,18.0821978,72.5510981,"Frigates, Destroyer",Anti Piracy,58,62,83,80
+INS Delhi,Destroyer,Delhi,India,"6,200 tonnes",163 m (535 ft),4500,32 knots (59 km/h; 37 mph),"17 × Kh-35E SSM
+16 × Barak 1
+2 × Shtil SAM systems (48 missiles)
+100 mm AK-100 gun
+2 × 30 mm AK-630 gatling guns
+2 × RBU-6000 rocket launchers
+Quintuple 533mm torpedo tubes
+2 rails of depth charges",D61,Mumbai,18.1221978,70.5410981,"Frigates, Destroyer",Anti Piracy,48,50,94,83
+INS Mumbai,Destroyer,Delhi,India,"6,200 tonnes",163 m (535 ft),4500,32 knots (59 km/h; 37 mph),"17 × Kh-35E SSM
+16 × Barak 1
+2 × Shtil SAM systems (48 missiles)
+100 mm AK-100 gun
+2 × 30 mm AK-630 gatling guns
+2 × RBU-6000 rocket launchers
+Quintuple 533mm torpedo tubes
+2 rails of depth charges",D62,Mumbai,16.3821978,69.7410981,"Frigates, Destroyer",Anti Piracy,95,90,97,78
+INS Rana,Destroyer,Rajput,India,"4,974 tonnes",147 m (482 ft),4000,35 knots (65 km/h),"4 × SS-N-2D Styx AShM missiles
+2 × S-125M (NATO: SA-N-1) SAM launchers
+76.2 mm main gun
+4 × 30 mm AK-230 CIWS
+533 mm PTA quintuple torpedo tube launcher
+2 × RBU-6000 anti-submarine mortars",D52,Visakhapatnam,9.341231,74.355887,"Frigates, Destroyer",Anti Piracy,52,60,79,80
+INS Ranvijay,Destroyer,Rajput,India,"4,974 tonnes",147 m (482 ft),4000,35 knots (65 km/h),"4 × SS-N-2D Styx AShM missiles
+2 × S-125M (NATO: SA-N-1) SAM launchers
+76.2 mm main gun
+4 × 30 mm AK-230 CIWS
+533 mm PTA quintuple torpedo tube launcher
+2 × RBU-6000 anti-submarine mortars",D54,Visakhapatnam,14.4386225,83.1225031,"Frigates, Destroyer",Anti Piracy,67,70,78,86
+INS Ranvir,Destroyer,Rajput,India,"4,974 tonnes",147 m (482 ft),4000,35 knots (65 km/h),"4 × SS-N-2D Styx AShM missiles
+2 × S-125M (NATO: SA-N-1) SAM launchers
+76.2 mm main gun
+4 × 30 mm AK-230 CIWS
+533 mm PTA quintuple torpedo tube launcher
+2 × RBU-6000 anti-submarine mortars",D55,Visakhapatnam,15.7386225,83.1225031,"Frigates, Destroyer",Anti Piracy,87,90,82,81
+INS Shivalik,Frigate,Shivalik,India,"6,200 tonnes ",142.5 m (468 ft),5000,32 kn (59 km/h; 37 mph) ,"32-cell VLS-launched Barak 1 surface-to-air 
+missiles
+24 × Shtil-1 medium-range missiles
+8 × VLS-launched Klub, anti-ship cruise 
+missiles or BrahMos
+1 × OTO Melara 76 mm gun
+2 × AK-630 CIWS
+2 × 2 DTA-53-956 torpedo launchers
+2 × RBU-6000 (RPK-8) rocket launchers",F47,Kolkata,14.1565454,88.4623455,,Relief Operation,56,67,88,89
+INS Satpura,Frigate,Shivalik,India,"6,200 tonnes ",142.5 m (468 ft),5000,32 kn (59 km/h; 37 mph) ,"32-cell VLS-launched Barak 1 surface-to-air 
+missiles
+24 × Shtil-1 medium-range missiles
+8 × VLS-launched Klub, anti-ship cruise 
+missiles or BrahMos
+1 × OTO Melara 76 mm gun
+2 × AK-630 CIWS
+2 × 2 DTA-53-956 torpedo launchers
+2 × RBU-6000 (RPK-8) rocket launchers",F48,Kochi,9.9823428,76.1608452,,Relief Operation,78,80,90,92
+INS Sahyadri,Frigate,Shivalik,India,"6,200 tonnes ",142.5 m (468 ft),5000,32 kn (59 km/h; 37 mph) ,"32-cell VLS-launched Barak 1 surface-to-air 
+missiles
+24 × Shtil-1 medium-range missiles
+8 × VLS-launched Klub, anti-ship cruise 
+missiles or BrahMos
+1 × OTO Melara 76 mm gun
+2 × AK-630 CIWS
+2 × 2 DTA-53-956 torpedo launchers
+2 × RBU-6000 (RPK-8) rocket launchers",F49,Mumbai,18.7821978,72.7410981,,Relief Operation,88,90,94,97
+INS Betwa,Frigate,Brahmaputra,India,"3,850 tons",126.4 m (414 ft 8 in),4500,30 knots (56 km/h; 35 mph),"16 × Kh-35 (SS-N-25 Switchblade) AShMs 
+(4 x quadruple KT-184 launchers)
+2 × 8 Barak SAM VLS system
+1 × OTO Melera Super Rapid 76mm main gun
+4 × 6-barrelled 30mm AK-630 Gatling guns
+6 × 324mm ILAS 3 (2 x triple tubes) with 
+Whitehead A244S anti-submarine torpedoes
+",F39,Chennai,13.0835542,92.2767408,,Relief Operation,56,60,87,90
+INS Beas,Frigate,Brahmaputra,India,"3,850 tons",126.4 m (414 ft 8 in),4500,30 knots (56 km/h; 35 mph),"16 × Kh-35 (SS-N-25 Switchblade) AShMs 
+(4 x quadruple KT-184 launchers)
+2 × 8 Barak SAM VLS system
+1 × OTO Melera Super Rapid 76mm main gun
+4 × 6-barrelled 30mm AK-630 Gatling guns
+6 × 324mm ILAS 3 (2 x triple tubes) with 
+Whitehead A244S anti-submarine torpedoes
+",F37,Mumbai,19.0821978,68.7410981,,Relief Operation,65,67,78,75
+INS Kamorta,Corvette,Kamorta,India,"3,500 tonnes",109.1 m,4000,32 knots (59 km/h; 37 mph),"Anti-air weaponry:
+1 X OTO Melara 76 mm Super Rapid Gun Mount 
+(SRGM)-
+ 2 x AK-630M CIWS
+To be outfitted with 32 × VL-SRSAM
+Anti-submarine warfare:
+2 X RBU-6000 (IRL) anti-submarine rocket launcher
+2x4 533 mm Torpedo tubes (Varunastra)",P28,Visakhapatnam,16.7386225,83.1225031,"Frigates, Destroyer",Anti Piracy,96,99,86,77
+INS Kadmatt,Corvette,Kamorta,India,"3,500 tonnes",109.1 m,4000,32 knots (59 km/h; 37 mph),"Anti-air weaponry:
+1 X OTO Melara 76 mm Super Rapid Gun Mount 
+(SRGM)-
+ 2 x AK-630M CIWS
+To be outfitted with 32 × VL-SRSAM
+Anti-submarine warfare:
+2 X RBU-6000 (IRL) anti-submarine rocket launcher
+2x4 533 mm Torpedo tubes (Varunastra)",P29,Visakhapatnam,17.7386225,85.1225031,"Frigates, Destroyer",Anti Piracy,94,98,92,94
+INS Kiltan,Corvette,Kamorta,India,"3,500 tonnes",109.1 m,4000,32 knots (59 km/h; 37 mph),"Anti-air weaponry:
+1 X OTO Melara 76 mm Super Rapid Gun Mount 
+(SRGM)-
+ 2 x AK-630M CIWS
+To be outfitted with 32 × VL-SRSAM
+Anti-submarine warfare:
+2 X RBU-6000 (IRL) anti-submarine rocket launcher
+2x4 533 mm Torpedo tubes (Varunastra)",P30,Visakhapatnam,17.7386225,86.5225031,"Frigates, Destroyer",Anti Piracy,72,80,83,86
+INS Kavaratti,Corvette,Kamorta,India,"3,500 tonnes",109.1 m,4000,32 knots (59 km/h; 37 mph),"Anti-air weaponry:
+1 X OTO Melara 76 mm Super Rapid Gun Mount 
+(SRGM)-
+ 2 x AK-630M CIWS
+To be outfitted with 32 × VL-SRSAM
+Anti-submarine warfare:
+2 X RBU-6000 (IRL) anti-submarine rocket launcher
+2x4 533 mm Torpedo tubes (Varunastra)",P31,Visakhapatnam,17.7386225,87.1255031,"Frigates, Destroyer",Anti Piracy,54,60,88,80
+INS Vipul,Corvette,Veer,India,455 tons ,56.1 m (184 ft),2000,36 knots (67 km/h; 41 mph),"4 × P-15 Termit (NATO: SS-N-2D Mod 1 Styx) 
+missiles or 16 × Kh-35 Uran (NATO: SS-N-25) 
+missiles (K91 and K92)
+1 quad SA-N-5 Grail launcher for air defence missiles
+1 × 76 mm 60-cal main gun or 1 × 76 mm 62-cal 
+OTO Melara 76 mm Super Rapid gun (K91 and K92)
+2 × AK-630 30 mm gun
+",K46,Mumbai,18.0421978,71.7410981,"Frigates, Destroyer",Anti Piracy,87,90,90,82
+INS Vinash,Corvette,Veer,India,455 tons ,56.1 m (184 ft),2000,36 knots (67 km/h; 41 mph),"4 × P-15 Termit (NATO: SS-N-2D Mod 1 Styx) 
+missiles or 16 × Kh-35 Uran (NATO: SS-N-25) 
+missiles (K91 and K92)
+1 quad SA-N-5 Grail launcher for air defence missiles
+1 × 76 mm 60-cal main gun or 1 × 76 mm 62-cal 
+OTO Melara 76 mm Super Rapid gun (K91 and K92)
+2 × AK-630 30 mm gun
+",K47,Mumbai,17.0821978,72.7450981,"Frigates, Destroyer",Anti Piracy,59,70,90,83
+INS Vidyut,Corvette,Vidyut,India,455 tons ,56.1 m (184 ft),2000,36 knots (67 km/h; 41 mph),"4 × P-15 Termit (NATO: SS-N-2D Mod 1 Styx) 
+missiles or 16 × Kh-35 Uran (NATO: SS-N-25) 
+missiles (K91 and K92)
+1 quad SA-N-5 Grail launcher for air defence missiles
+1 × 76 mm 60-cal main gun or 1 × 76 mm 62-cal 
+OTO Melara 76 mm Super Rapid gun (K91 and K92)
+2 × AK-630 30 mm gun
+",K48,Kochi,9.5523428,76.1608452,"Frigates, Destroyer",Anti Piracy,61,63,82,80
+INS Vibhuti,Corvette,Veer,India,455 tons ,56.1 m (184 ft),2000,36 knots (67 km/h; 41 mph),"4 × P-15 Termit (NATO: SS-N-2D Mod 1 Styx) 
+missiles or 16 × Kh-35 Uran (NATO: SS-N-25) 
+missiles (K91 and K92)
+1 quad SA-N-5 Grail launcher for air defence missiles
+1 × 76 mm 60-cal main gun or 1 × 76 mm 62-cal 
+OTO Melara 76 mm Super Rapid gun (K91 and K92)
+2 × AK-630 30 mm gun
+",K45,Mumbai,19.0351978,69.7410981,"Frigates, Destroyer",Anti Piracy,67,67,90,80
+INS Kora,Corvette,Kora,India,"1,400 tonnes ",91.1 m (299 ft),4000,25 kn (46 km/h; 29 mph),"16 × Kh-35 (SS-N-25) SSM (4 x quad launchers)
+SA-N-5 Grail launcher for air defence missiles
+1 × 76 mm 62-cal Otobreda gun (P61, P62, P63 and 
+P64) (replaced AK 76/60 gun during MLU)
+2 × 30 mm 65-cal AK-630 CIWS
+",P61,Visakhapatnam,17.7386225,85.9825031,"Frigates, Destroyer",Anti Piracy,52,54,86,88
+INS Kirch,Corvette,Kora,India,"1,400 tonnes ",91.1 m (299 ft),4000,25 kn (46 km/h; 29 mph),"16 × Kh-35 (SS-N-25) SSM (4 x quad launchers)
+SA-N-5 Grail launcher for air defence missiles
+1 × 76 mm 62-cal Otobreda gun (P61, P62, P63 and 
+P64) (replaced AK 76/60 gun during MLU)
+2 × 30 mm 65-cal AK-630 CIWS
+",P62,Visakhapatnam,17.7386225,83.5225031,"Frigates, Destroyer",Anti Piracy,77,80,85,93
+INS Deepak,Tanker,Deepak,India,"30,000 tonnes ",175 m (574 ft),10000,,,,Mumbai,19.2221978,72.7410981,,Refueling,56,59,77,80
+INS Shakti,Tanker,Deepak,India,"27,550 tonnes",175 m (574 ft),10000,,,,Visakhapatnam,8.5596766,73.878655,,Refueling,88,78,90,89
+INS Aditya,Tanker,Deepak,India,"24,612 tons",172 m (564 ft),10000,,,,Kochi,4.9765555,74.48099,,Refueling,45,50,88,90
+INS Jyoti,Tanker,Komandarm,India,"35,900 tonnes",178 m (584 ft),12000,,,,Kolkata,21.061936,88.0236771,,Refueling,73,73,76,80
+INS Magar,LST,Magar,India,"5,665 tons",120 m (394 ft),3000,,,,Chennai,13.0835542,85.2767408,,Relief Operation,71,75,87,80
+INS Shardul,LST,Shardul,India,"5,600 tons",125 m (410 ft),3000,,,,Mumbai,21.7598098,64.1675455,,Relief Operation,77,78,65,64
+INS Kesari,LST,Shardul,India,"5,650 tons",125 m (409 ft),3000,,,,Visakhapatnam,17.1386225,83.1225031,,Relief Operation,82,88,91,90
+INS Airavat,LST,Shardul,India,"5,650 tons",125 m (410 ft),3000,,,,Kochi,4.4563456,71.9178649,,Relief Operation,86,84,90,98
+INS Cheetah,LST,Kumbhir,India,"1,120 tons",84 m (275 ft),3000,,,,Kolkata,7.798095,91.692677,,Relief Operation,90,89,90,98
+INS Guldar,LST,Kumbhir,India,"1,120 tons",84 m (275 ft),3000,,,,Mumbai,19.0821978,71.9710981,,Relief Operation,88,87,56,57
+INS Kumbhir,LST,Kumbhir,India,"1,120 tons",84 m (275 ft),3000,,,,Visakhapatnam,8.7857009,72.765666,,Relief Operation,86,87,88,90
+INS Talwar,Frigate,Talwar,India,"4,035 tons ",125 m (409 ft),4850,,,,Chennai,13.0835542,80.5767408,,Anti Piracy,78,80,89,78
+INS Trishul,Frigate,Talwar,India,"4,035 tons ",125 m (409 ft),4850,,,,Mumbai,19.0481978,72.7410981,,Anti Piracy,88,90,90,95
+INS Teg,Frigate,Talwar,India,"3,620 tons",125 m (409 ft),4850,,,,Visakhapatnam,17.7386225,83.3825031,,Anti Piracy,56,60,79,88
+INS Tarkash,Frigate,Talwar,India,"3,620 tons",125 m (409 ft),4850,,,,Kochi,9.7823428,76.1608452,,Anti Piracy,77,80,85,78
+INS Trikand,Frigate,Talwar,India,"3,620 tons",125 m (409 ft),4850,,,,Kolkata,10.661984,95.5389112,,Anti Piracy,98,99,82,90
+INS Saryu,OPV,Saryu,India,"2,300 tonnes",105 m (344 ft),3700,25 knots (46 km/h),"	
+
+    1 × OTO Melara 76 mm gun
+    2 × AK-630 (30 mm Close-in weapon systems (CIWS)
+    6 × self-protection chaff launchers
+    Fire-control system
+",P54,Port Blair,17.332368,69.19114,,Patrolling,78,80,89,90
+INS Sunayna,OPV,Saryu,India,"2,300 tonnes",105 m (344 ft),3700,25 knots (46 km/h),"	
+
+    1 × OTO Melara 76 mm gun
+    2 × AK-630 (30 mm Close-in weapon systems (CIWS)
+    6 × self-protection chaff launchers
+    Fire-control system
+",P57,Kochi,14.5582011,71.7719996,,Patrolling,89,90,92,80
+INS Sumedha,OPV,Saryu,India,"2,300 tonnes",105 m (344 ft),3700,25 knots (46 km/h),"	
+
+    1 × OTO Melara 76 mm gun
+    2 × AK-630 (30 mm Close-in weapon systems (CIWS)
+    6 × self-protection chaff launchers
+    Fire-control system
+",P58,Port Blair,12.2644812,82.3661734,,Patrolling,88,90,92,94
+INS Sumitra,OPV,Saryu,India,"2,300 tonnes",105 m (344 ft),3700,25 knots (46 km/h),"	
+
+    1 × OTO Melara 76 mm gun
+    2 × AK-630 (30 mm Close-in weapon systems (CIWS)
+    6 × self-protection chaff launchers
+    Fire-control system
+",P59,Chennai,17.983692,87.671275,,Patrolling,82,80,78,82
+INS Sukanya,OPV,Sukanya,India,"1,890 tons",101 m (331 ft 4 in),7000,21 knots (39 km/h),"
+    1 × 40 mm, 60 cal. Bofors anti-aircraft gun
+    2 × 12.7 mm machine guns
+    P51 added: 1 Dhanush ballistic missile
+    P55 added: 2 x 25 mm, 80 cal. anti-aircraft guns
+",P50,Mumbai,19.01978,72.7981,,Patrolling,79,90,80,85
+INS Subhadra,OPV,Sukanya,India,"1,890 tons",101 m (331 ft 4 in),7000,21 knots (39 km/h),"
+    1 × 40 mm, 60 cal. Bofors anti-aircraft gun
+    2 × 12.7 mm machine guns
+    P51 added: 1 Dhanush ballistic missile
+    P55 added: 2 x 25 mm, 80 cal. anti-aircraft guns
+",P51,Mumbai,19.0132978,72.796581,,Patrolling,89,90,91,92
+INS Suvarna,OPV,Sukanya,India,"1,890 tons",101 m (331 ft 4 in),7000,21 knots (39 km/h),"
+    1 × 40 mm, 60 cal. Bofors anti-aircraft gun
+    2 × 12.7 mm machine guns
+    P51 added: 1 Dhanush ballistic missile
+    P55 added: 2 x 25 mm, 80 cal. anti-aircraft guns
+",P52,Mumbai,19.01378,72.796581,,Patrolling,80,78,82,82
+INS Savitri,OPV,Sukanya,India,"1,890 tons",101 m (331 ft 4 in),7000,21 knots (39 km/h),"	
+
+    1 × 40 mm, 60-cal Bofors anti-aircraft gun
+    2 × 12.7 mm machine guns
+",P53,Visakhapatnam,17.76225,83.38031,,Patrolling,78,77,76,79
+INS Sharada,OPV,Sukanya,India,"1,890 tons",101 m (331 ft 4 in),7000,21 knots (39 km/h),"
+    1 × 40 mm, 60 cal. Bofors anti-aircraft gun
+    2 × 12.7 mm machine guns
+    P51 added: 1 Dhanush ballistic missile
+    P55 added: 2 x 25 mm, 80 cal. anti-aircraft guns
+",P55,Kochi,4.45345,71.98649,,Patrolling,81,82,89,92
+INS Sujata,OPV,Sukanya,India,"1,890 tons",101 m (331 ft 4 in),7000,21 knots (39 km/h),"
+    1 × 40 mm, 60 cal. Bofors anti-aircraft gun
+    2 × 12.7 mm machine guns
+    P51 added: 1 Dhanush ballistic missile
+    P55 added: 2 x 25 mm, 80 cal. anti-aircraft guns
+",P56,Kochi,4.45456,71.917864,,Patrolling,80,78,89,92
+USS Abraham Lincoln,Aircraft carrier,Nimitz,US,"104,300 long tons",332.8 m,7001,30 kn (56 km/h; 35 mph),"2 × Mk 57 Mod 3 Sea Sparrow
+2 × RIM-116 Rolling Airframe Missile
+2 × Phalanx CIWS",CVN-72,Washington,38.8936708,-77.1546618,,Refueling,67,57,90,94
+USS Arleigh Burke,Destroyer,Arleigh Burke,US,"6,800 long tons","505 ft (154 m)
+",7002,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launching 
+Systems with 90 × RIM-156 SM-2, BGM-109
+ Tomahawk or RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+",DDG-51,Rota,36.626212,-6.3861167,,Patrolling,82,84,89,91
+USS Bainbridge,Destroyer,Arleigh Burke,US,"9,200 tons
+","509 ft 6 in (155.3 m)
+",7003,">30 knots (56 km/h; 35 mph)
+","1 × 5-inch (127 mm)/62 caliber Mk 45 Mod 4
+ Naval gun
+2 × 25 mm Mk 38 Autocannons
+4 × .50 cal (12.7 mm) machine guns
+1 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes for Mk 46 torpedoes
+96-cell Mk 41 VLS for:
+RIM-66 Standard Missile 2
+BGM-109 Tomahawk
+RUM-139 VL-ASROC missiles",DDG-96,Norfolk,52.6727141,0.389087,,Patrolling,91,76,90,92
+USS Barry ,Destroyer,Arleigh Burke,US,"6,800 long tons",509 ft 6 in (155.3 m) ,7004,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launching 
+systems with 90 × RIM-156 SM-2, BGM-109 
+Tomahawk or RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+","
+DDG-52",Yokosuka,35.2601108,139.5915011,,Patrolling,89,90,92,93
+USS Benfold,Destroyer,Arleigh Burke,US,"6,800 long tons",505 ft 6 in (154 m) ,7005,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launching 
+systems with 90 × RIM-156 SM-2, BGM-109 
+Tomahawk or RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+",DDG-65,Yokosuka,35.2601108,139.5915011,,Patrolling,76,71,89,83
+USS Bulkeley,Destroyer,Arleigh Burke,US,"9,200 tons ",511 ft 6 in (155.3 m) ,7006,">30 knots (56 km/h; 35 mph)
+","1 × 5-inch (127 mm)/62 caliber Mk 45 Mod 4 naval gun
+2 × 25 mm Mk 38 Autocannons
+6 × .50 cal (12.7 mm) machine guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes for Mk 46 torpedoes
+96-cell Mk 41 VLS for:
+RIM-66 Standard Missile 2
+RIM-162 ESSM
+BGM-109 Tomahawk
+RUM-139 VL-ASROC missiles
+",DDG-84,Norfolk,52.6727141,0.389087,,Patrolling,83,79,90,99
+USS Carney,Destroyer,Arleigh Burke,US,"6,800 long tons",505 ft 6 in (154 m) ,7007,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launching systems
+with 90 × RIM-156 SM-2, BGM-109 Tomahawk or 
+RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+",DDG-64,Mayport,30.3886194,-81.4087041,,Patrolling,85,78,79,89
+USS Chafee,Destroyer,Arleigh Burke,US,"9,200 long tons",509 ft 6 in (155.3 m) ,7008,">30 knots (56 km/h; 35 mph)
+","1 × 5 inch (127 mm)/62 caliber Mk 45 Mod 4 naval gun
+2 × 25 mm Mk 38 Autocannons
+4 × .50 cal (12.7 mm) machine guns
+1 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes for Mk 46 torpedoes
+96-cell Mk 41 VLS for:
+RIM-66 Standard Missile 2
+RIM-162 ESSM
+BGM-109 Tomahawk
+RUM-139 VL-ASROC missiles
+",DDG-90,Pearl Harbour ,21.3548578,-158.0118351,,Patrolling,95,90,99,100
+USS Cole,Destroyer,Arleigh Burke,US,"6,800 long tons ",505 ft (154 m) ,7009,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launching systems
+with 90 × RIM-156 SM-2, BGM-109 Tomahawk or 
+RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+",DDG-67,Mayport,30.3886194,-81.4087041,,Patrolling,90,91,92,98
+USS Curtis Wilbur,Destroyer,Arleigh Burke,US,"6,800 long tons",505 ft (154 m) ,7010,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launching systems
+with 90 × RIM-156 SM-2, BGM-109 Tomahawk or 
+RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+",DDG-54,San Diego,32.8242404,-117.3891737,,Patrolling,81,77,76,78
+USS Daniel Inouye,Destroyer,Arleigh Burke,US,"9,200 long tons ",513 ft (156 m) ,7011,">30 knots (56 km/h; 35 mph)
+","1 × 5 inch (127 mm)/54 caliber Mk 45 naval gun
+2 × 25 mm Mk 38 Autocannons
+4 × .50 cal (12.7 mm) machine guns
+1 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes for Mk 46 torpedo
+96-cell Mk 41 VLS for use of:
+RIM-66M Standard Missile
+BGM-109 Tomahawk
+RUM-139 Vertical Launch ASROC
+",DDG-118,Pearl Harbour ,21.3548578,-158.0118351,,Patrolling,82,79,78,87
+USS Decatur,Destroyer,Arleigh Burke,US,"8,637 long tons",514 ft (156 m) ,7012,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launch systems 
+with 90 × RIM-67 SM-2, RIM-161 SM-3, BGM-109 
+Tomahawk or RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+",DDG-73,San Diego,32.8242404,-117.3891737,,Patrolling,78,79,80,81
+USS Dewey,Destroyer,Arleigh Burke,US,"9,200 long tons ",505 ft (154 m) ,7013,">30 knots (56 km/h; 35 mph)
+","1 × 5 inch (127 mm)/62 caliber Mk 45 Mod 4 naval gun
+2 × 25 mm Mk 38 Autocannons
+4 × .50 cal (12.7 mm) machine guns
+1 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes for Mk 46 torpedoes
+96-cell Mk 41 VLS for:
+RIM-66 Standard Missile 2
+BGM-109 Tomahawk
+RUM-139 VL-ASROC missiles
+",DDG-105,Yokosuka,35.2601108,139.5915011,,Patrolling,84,85,85,89
+USS Donald Cook,Destroyer,Arleigh Burke,US,"8,637 long tons",505 ft (154 m) ,7014,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launch systems 
+with 90 × RIM-67 SM-2, RIM-161 SM-3, BGM-109 
+Tomahawk or RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+",DDG-75,Mayport,30.3886194,-81.4087041,,Patrolling,83,79,80,87
+USS Fitzgerald,Destroyer,Arleigh Burke,US,"6,800 long tons",506 ft (154 m) ,7015,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launching systems
+with 90 × RIM-156 SM-2, BGM-109 Tomahawk or
+RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+",DDG-62,San Diego,32.8242404,-117.3891737,,Anti Piracy,66,67,88,77
+USS Forrest Sherman ,Destroyer,Arleigh Burke,US,"9,200 tons ",507 ft (154 m) ,7016,">30 knots (56 km/h; 35 mph)
+","1 × 5 inch (127 mm)/62 caliber Mk 45 Mod 4 naval gun
+2 × 25 mm Mk 38 Autocannons
+4 × .50 cal (12.7 mm) machine guns
+1 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes for Mk 46 torpedoes
+96-cell Mk 41 VLS for:
+RIM-66 Standard Missile 2
+RIM-162 ESSM
+BGM-109 Tomahawk
+RUM-139 VL-ASROC missiles
+",DDG-98,Norfolk,52.6727141,0.389087,,Anti Piracy,78,80,90,88
+USS Hopper,Destroyer,Arleigh Burke,US,"6,800 long tons ",505 ft (154 m) ,7017,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launching systems 
+with 90 × RIM-156 SM-2, BGM-109 Tomahawk or 
+RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+",DDG-70,Pearl Harbour ,21.3548578,-158.0118351,,Anti Piracy,63,67,94,78
+USS Higgins,Destroyer,Arleigh Burke,US,"8,637 long tons",506 ft (154 m) ,7018,">30 knots (56 km/h; 35 mph)
+","1 × 29 cell, 1 × 61 cell Mk 41 vertical launch systems 
+with 90 × RIM-67 SM-2, RIM-161 SM-3, 
+BGM-109 Tomahawk or RUM-139 VL-ASROC missiles
+2 x Mk 141 Harpoon Missile Launcher SSM
+1 × Mark 45 5/54 in (127/54 mm)
+2 × 25 mm chain gun
+4 × .50 caliber (12.7 mm) guns
+2 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes
+",DDG-76,Yokosuka,35.2601108,139.5915011,,Anti Piracy,90,98,85,76
+USS Halsey ,Destroyer,Arleigh Burke,US,"8,637 long tons",507 ft (154 m) ,7019,">30 knots (56 km/h; 35 mph)
+","96-cell Mk 41 VLS for:
+RIM-66 Standard Missile 2
+BGM-109 Tomahawk
+RUM-139 VL-ASROC missiles
+1 × 5 inch (127 mm)/62 caliber Mk 45 Mod 4 naval gun
+2 × 25 mm Mk 38 Autocannons
+4 × .50 cal (12.7 mm) machine guns
+1 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes for Mk 46 torpedoes
+",DDG-97,Pearl Harbour ,21.3548578,-158.0118351,,Anti Piracy,79,80,79,69
+USS Gridley,Destroyer,Arleigh Burke,US,"8,637 long tons",508 ft (154 m) ,7020,">30 knots (56 km/h; 35 mph)
+","1 × 5 inch (127 mm)/62 caliber Mk 45 Mod 4 naval gun
+2 × 25 mm Mk 38 Autocannons
+4 × .50 cal (12.7 mm) machine guns
+1 × 20 mm Phalanx CIWS
+2 × Mk 32 triple torpedo tubes for Mk 46 torpedoes
+96-cell Mk 41 VLS for:
+RIM-66 Standard Missile 2
+BGM-109 Tomahawk
+RUM-139 VL-ASROC missiles
+",DDG-101,Everett,47.9573405,-122.1840647,,Patrolling,78,76,89,92
+Vice-Admiral Kulakov,Destroyer,Udaloy,Russia,7570 long tons,163 m (535 ft),7021,35 knots (65 km/h),"
+    2 × 4 SS-N-14 anti submarine/ship missiles
+    4 × vertical launchers for SA-N-9 surface-to-air missiles
+    1 × Gibka (3M47) ADMS station
+    2 × 1 100 mm (3.9 in) guns
+    4 × 30 mm AK630 Gatling guns
+    2 × 4 553 mm (22 in) torpedo tubes, Type 53 ASW/ASuW torpedo
+    2 × RBU-6000 anti-submarine rocket launchers
+",626,Severomorsk,69.0664264,33.3914271,,Anti Piracy,80,80,92,98
+Marshal Shaposhnikov,Destroyer,Udaloy,Russia,7570 long tons,163 m (535 ft),7022,36 knots (65 km/h),"
+    16 VLS cells for 3M54, 3M14, Oniks and Otvet[2] missiles
+    8 (2 × 4) 3M24 anti-ship missiles
+    64 (8 × 8) VLS cells for Kinzhal surface-to-air missiles
+    1 × 100 mm (3.9 in) AK-190 gun
+    4 × 30 mm Gatling guns
+    2 × 4 553 mm (21.8 in) torpedo tubes, Type 53 ASW/ASuW torpedo
+    2 × RBU-6000 anti submarine rocket launchers
+",543,Vladivostok,43.1665016,131.8133729,,Patrolling,76,77,89,88
+Admiral Tributs ,Destroyer,Udaloy,Russia,7570 long tons,163 m (535 ft),7023,37 knots (65 km/h),"
+    2 × quadruple 84R/URPK-4 Metel-U anti submarine missiles
+    8 × vertical launchers for 3K95 Kinzhal surface to air missiles
+    2 × single 100 mm (3.9 in) guns
+    4 × 30 mm (1.2 in) AK-630 Gatling guns
+    2 × quadruple 553 mm (21.8 in) CHTA-53-1155 torpedo tubes, Type 53-65K, SET-65 ASW/ASuW torpedo
+    2 × RBU-6000 anti submarine rocket launchers
+",564,Vladivostok,43.1665016,131.8133729,,Anti Piracy,80,85,89,90
+Severomorsk,Destroyer,Udaloy,Russia,7570 long tons,163 m (535 ft),7024,38 knots (65 km/h),"
+    Guns:
+    2 × 1 21KM AA guns
+    4 × 6 30 mm AK-630 CIWS
+    2 × 1 AK-100 100 mm naval guns
+    Missiles
+    8 (2 × 4) SS-N-14 'Silex' anti-submarine/anti-ship missiles
+    64 (8 × 8) VLS cells for SA-N-9 'Gauntlet' surface-to-air missiles
+    Anti-submarine:
+    2 × 4 533 mm torpedo tubes for Type 53 or Type 65 torpedoes
+    2 × 12 RBU-6000 anti-submarine rocket launchers
+    2 × 6 RBU-1000 anti-submarine rocket launchers
+",619,Severomorsk,69.0664264,33.3914271,,Anti Piracy,79,80,90,87
+Admiral Vinogradov,Destroyer,Udaloy,Russia,7570 long tons,163 m (535 ft),7025,39 knots (65 km/h),"
+    2 × 4 SS-N-14 anti-submarine missiles
+    8 × vertical launchers for SA-N-9 surface-to-air missiles
+    2 × 1 100 mm (3.9 in) guns
+    4 × 30 mm Gatling guns
+    2 × 4 553 mm (21.8 in) torpedo tubes, Type 53 ASW/ASuW torpedo
+    2 × RBU-6000 anti-submarine rocket launchers
+",572,Vladivostok,43.1665016,131.8133729,,Anti Piracy,57,60,92,87
+Admiral Levchenko,Destroyer,Udaloy,Russia,7570 long tons,164 m (535 ft),7026,40 knots (65 km/h),"
+    2 × 4 SS-N-14 anti submarine missiles
+    8 × 8 vertical launchers for SA-N-9 surface to air missiles
+    2 × 1 barrel 100 mm (3.9 in) gun (AK-100)[2]
+    4 × 30 mm Gatling guns
+    2 × 4 553 mm (21.8 in) torpedo tubes, Type 53 ASW/ASuW torpedo
+    2 × RBU-6000 anti submarine rocket launchers
+",605,Severomorsk,69.0664264,33.3914271,,Patrolling,81,75,78,79
+Admiral Panteleyev,Destroyer,Udaloy,Russia,7570 long tons,165 m (535 ft),7027,41 knots (65 km/h),"
+    2 × 4 SS-N-14 anti-submarine missiles
+    8 × vertical launchers for SA-N-9 surface-to-air missiles
+    2 × 1 100 mm (3.9 in) guns
+    4 × AK-630
+    2 × 4 553 mm (21.8 in) torpedo tubes, Type 53 ASW/ASuW torpedo
+    2 × RBU-6000 anti submarine rocket launchers
+",548,Vladivostok,43.1665016,131.8133729,,Patrolling,82,80,79,78
+Admiral Chabanenko,Destroyer,Udaloy,Russia,8320 long tons,165 m (535 ft),7028,42 knots (65 km/h),"
+    2 × 4 SS-N-22 anti-ship missiles
+    8 × 8 vertical launchers for 64 SA-N-9 surface-to-air missiles
+    1 twin-gunned AK-130 130 mm (5.1 in) guns
+    4 × AK-630
+    2 × 4 553 mm (21.8 in) torpedo tubes, Type 53 ASW/ASuW torpedo
+    2 × RBU-6000 anti submarine rocket launchers
+",650,Severomorsk,69.0664264,33.3914271,,Patrolling,83,67,87,89
+Nastoychivyy,Destroyer,Sovremennyy,Russia,7940 long tons,156 m (511 ft 10 in),7029,32.7 knots (60.6 km/h; 37.6 mph),"
+    Guns:
+    4 (2 × 2) AK-130 130 mm naval guns
+    4 × 30 mm AK-630 CIWS
+    Missiles
+    8 (2 × 4) (SS-N-22 'Sunburn') anti-ship missiles
+    48 (2 × 24) SA-N-7 'Gadfly' surface-to-air missiles
+    Anti-submarine:
+    2 × 2 533 mm torpedo tubes
+    2 × 6 RBU-1000 300 mm anti-submarine rocket launchers
+",610,Baltiysk,54.6532998,19.8327258,,Patrolling,93,83,90,93
+Admiral Ushakov,Destroyer,Sovremennyy,Russia,7941 long tons,157 m (511 ft 10 in),7030,33.7 knots (60.6 km/h; 37.6 mph),"
+    Guns:
+    4 (2 × 2) AK-130 130 mm naval guns
+    4 × 30 mm AK-630 CIWS
+    Missiles
+    8 (2 × 4) (SS-N-22 'Sunburn') anti-ship missiles
+    48 (2 × 24) SA-N-7 'Gadfly' surface-to-air missiles
+    Anti-submarine:
+    2 × 2 533 mm torpedo tubes
+    2 × 6 RBU-1000 300 mm anti-submarine rocket launchers
+",474,Severomorsk,69.0664264,33.3914271,,Patrolling,84,80,92,91
+HMS Daring,Destroyer,Daring,UK,8500 long tons,152.4 m (500 ft 0 in),7031,30 kn (56 km/h; 35 mph),"Sea Viper air defence system with a 48-cell Sylver Vertical Launching System for a mix of Aster 15 short range and Aster 30 long range missiles
+    Up to 2 × quad Harpoon anti-ship missile launchers[N 1]
+    1 × BAE 4.5 inch Mk 8 naval gun
+    2 × Oerlikon 30 mm guns
+    2 × 20mm Phalanx CIWS
+    2 × Miniguns
+    6 × 7.62mm General Purpose Machine Guns
+",D32,Portsmouth,50.8047148,-1.1667701,,Patrolling,85,80,79,78
+HMS Dauntless,Destroyer,Daring,UK,8501 long tons,153.4 m (500 ft 0 in),7032,31 kn (56 km/h; 35 mph),"Sea Viper air defence system with a 48-cell Sylver Vertical Launching System for a mix of Aster 15 short range and Aster 30 long range missiles
+    Up to 2 × quad Harpoon anti-ship missile launchers[N 1]
+    1 × BAE 4.5 inch Mk 8 naval gun
+    2 × Oerlikon 30 mm guns
+    2 × 20mm Phalanx CIWS
+    2 × Miniguns
+    6 × 7.62mm General Purpose Machine Guns
+",D33,Portsmouth,50.8047148,-1.1667701,,Patrolling,93,90,92,95
+HMS Diamond,Destroyer,Daring,UK,8502 long tons,154.4 m (500 ft 0 in),7033,32 kn (56 km/h; 35 mph),"Sea Viper air defence system with a 48-cell Sylver Vertical Launching System for a mix of Aster 15 short range and Aster 30 long range missiles
+    Up to 2 × quad Harpoon anti-ship missile launchers[N 1]
+    1 × BAE 4.5 inch Mk 8 naval gun
+    2 × Oerlikon 30 mm guns
+    2 × 20mm Phalanx CIWS
+    2 × Miniguns
+    6 × 7.62mm General Purpose Machine Guns
+",D34,Portsmouth,50.8047148,-1.1667701,,Patrolling,83,80,78,76
+HMS Dragon,Destroyer,Daring,UK,8503 long tons,155.4 m (500 ft 0 in),7034,33 kn (56 km/h; 35 mph),"Sea Viper air defence system with a 48-cell Sylver Vertical Launching System for a mix of Aster 15 short range and Aster 30 long range missiles
+    Up to 2 × quad Harpoon anti-ship missile launchers[N 1]
+    1 × BAE 4.5 inch Mk 8 naval gun
+    2 × Oerlikon 30 mm guns
+    2 × 20mm Phalanx CIWS
+    2 × Miniguns
+    6 × 7.62mm General Purpose Machine Guns
+",D35,Portsmouth,50.8047148,-1.1667701,,Patrolling,91,79,80,89
+HMS Defender,Destroyer,Daring,UK,8504 long tons,156.4 m (500 ft 0 in),7035,34 kn (56 km/h; 35 mph),"Sea Viper air defence system with a 48-cell Sylver Vertical Launching System for a mix of Aster 15 short range and Aster 30 long range missiles
+    Up to 2 × quad Harpoon anti-ship missile launchers[N 1]
+    1 × BAE 4.5 inch Mk 8 naval gun
+    2 × Oerlikon 30 mm guns
+    2 × 20mm Phalanx CIWS
+    2 × Miniguns
+    6 × 7.62mm General Purpose Machine Guns
+",D36,Portsmouth,50.8047148,-1.1667701,,Patrolling,83,84,84,89
+HMS Duncan,Destroyer,Daring,UK,8505 long tons,157.4 m (500 ft 0 in),7036,35 kn (56 km/h; 35 mph),"Sea Viper air defence system with a 48-cell Sylver Vertical Launching System for a mix of Aster 15 short range and Aster 30 long range missiles
+    Up to 2 × quad Harpoon anti-ship missile launchers[N 1]
+    1 × BAE 4.5 inch Mk 8 naval gun
+    2 × Oerlikon 30 mm guns
+    2 × 20mm Phalanx CIWS
+    2 × Miniguns
+    6 × 7.62mm General Purpose Machine Guns
+",D37,Portsmouth,50.8047148,-1.1667701,,Patrolling,91,87,89,90
+HMS Argyll,Frigate,Duke,UK,4900 long tons,133 m (436 ft 4 in),7037,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F231,Devonport,50.8047148,-1.1667701,,Patrolling,96,93,90,94
+HMS Lancaster,Frigate,Duke,UK,4901 long tons,134 m (436 ft 4 in),7038,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F229,Devonport,50.8047148,-1.1667701,,Patrolling,82,73,89,90
+HMS Iron Duke,Frigate,Duke,UK,4902 long tons,135 m (436 ft 4 in),7039,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F234,Devonport,50.8047148,-1.1667701,,Patrolling,87,82,94,90
+HMS montrose,Frigate,Duke,UK,4903 long tons,136 m (436 ft 4 in),7040,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F236,,50.904355,-1.323344,,Patrolling,94,90,90,93
+HMS Westminster,Frigate,Duke,UK,4904 long tons,137 m (436 ft 4 in),7041,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F237,Portsmouth,50.8047148,-1.1667701,,Patrolling,96,90,99,100
+HMS Northumberland,Frigate,Duke,UK,4905 long tons,138 m (436 ft 4 in),7042,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F238,Portsmouth,50.8047148,-1.1667701,,Anti Piracy,89,89,96,89
+HMS Richmond,Frigate,Duke,UK,4906 long tons,139 m (436 ft 4 in),7043,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F239,Portsmouth,50.8047148,-1.1667701,,Relief Operation,45,78,78,77
+HMS Somerset,Frigate,Duke,UK,4907 long tons,140 m (436 ft 4 in),7044,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F82,Portsmouth,50.8047148,-1.1667701,,Relief Operation,67,64,78,79
+HMS Sutherland,Frigate,Duke,UK,4908 long tons,141 m (436 ft 4 in),7045,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F81,Portsmouth,50.8047148,-1.1667701,,Relief Operation,67,69,78,79
+HMS Kent,Frigate,Duke,UK,4909 long tons,142 m (436 ft 4 in),7046,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F78,Portsmouth,50.8047148,-1.1667701,,Relief Operation,78,80,96,99
+HMS Portland,Frigate,Duke,UK,4910 long tons,143 m (436 ft 4 in),7047,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F79,Portsmouth,50.8047148,-1.1667701,,Relief Operation,80,93,96,88
+HMS St Albans,Frigate,Duke,UK,4911 long tons,144 m (436 ft 4 in),7048,28 knots (52 km/h; 32 mph),"
+    Anti-air missiles:
+        1 × 32-cell GWS 35 Vertical Launching System (VLS) for:
+        32 × Sea Ceptor missiles (1–25+ km)[2]
+    Anti-ship missiles:
+        Up to 2 × quad Harpoon launchers (8 × missiles)[3]
+    Anti-submarine torpedoes:
+        2 × twin 12.75 in (324 mm) Sting Ray torpedo tubes
+    Guns:
+        1 × BAE 4.5-inch Mk 8 naval gun
+        2 × 30 mm DS30M Mk2 guns, or, 2 × 30 mm DS30B guns
+        Browning heavy machine guns[4][5]
+        2 × Miniguns
+        4 × General-purpose machine gun
+",F83,Portsmouth,50.8047148,-1.1667701,,Relief Operation,60,63,76,78
+JS Murasame,Destroyer,Murasame,Japan,6200 long tons,151 m (495 ft),7049,30 knots (35 mph; 56 km/h),"
+    1 × 76 mm 62cal rapid fire gun (OTO Melara 3)
+    2 × missile canister up to 8 Type 90 (SSM-1B)
+    2 × 20 mm Phalanx CIWS
+    2 × Type 68 triple torpedo tubes
+    VLS Mk 48 (16 cells)
+      • Evolved Sea Sparrow SAM
+    VLS Mk 41 (16 cells)
+      • RUM-139 VL ASROC
+",DD-101,Yokosuka,35.2601108,139.5915011,,Relief Operation,67,68,90,98
+JS Harusame,Destroyer,Murasame,Japan,6201 long tons,152 m (495 ft),7050,31 knots (35 mph; 56 km/h),"
+    1 × 76 mm 62cal rapid fire gun (OTO Melara 3)
+    2 × missile canister up to 8 Type 90 (SSM-1B)
+    2 × 20 mm Phalanx CIWS
+    2 × Type 68 triple torpedo tubes
+    VLS Mk 48 (16 cells)
+      • Evolved Sea Sparrow SAM
+    VLS Mk 41 (16 cells)
+      • RUM-139 VL ASROC
+",DD-102,Sasebo,50.8047148,-1.1667701,,Relief Operation,78,79,89,90
+JS Yudachi,Destroyer,Murasame,Japan,6202 long tons,153 m (495 ft),7051,32 knots (35 mph; 56 km/h),"
+    1 × 76 mm 62cal rapid fire gun (OTO Melara 3)
+    2 × missile canister up to 8 Type 90 (SSM-1B)
+    2 × 20 mm Phalanx CIWS
+    2 × Type 68 triple torpedo tubes
+    VLS Mk 48 (16 cells)
+      • Evolved Sea Sparrow SAM
+    VLS Mk 41 (16 cells)
+      • RUM-139 VL ASROC
+",DD-103,Ominato,50.8047148,-1.1667701,,Patrolling,89,80,94,97
+JS Kirisame,Destroyer,Murasame,Japan,6203 long tons,154 m (495 ft),7052,33 knots (35 mph; 56 km/h),"
+    1 × 76 mm 62cal rapid fire gun (OTO Melara 3)
+    2 × missile canister up to 8 Type 90 (SSM-1B)
+    2 × 20 mm Phalanx CIWS
+    2 × Type 68 triple torpedo tubes
+    VLS Mk 48 (16 cells)
+      • Evolved Sea Sparrow SAM
+    VLS Mk 41 (16 cells)
+      • RUM-139 VL ASROC
+",DD-104,Sasebo,50.8047148,-1.1667701,,Patrolling,78,78,89,89
+JS Inazuma,Destroyer,Murasame,Japan,6204 long tons,155 m (495 ft),7053,34 knots (35 mph; 56 km/h),"
+    1 × 76 mm 62cal rapid fire gun (OTO Melara 3)
+    2 × missile canister up to 8 Type 90 (SSM-1B)
+    2 × 20 mm Phalanx CIWS
+    2 × Type 68 triple torpedo tubes
+    VLS Mk 48 (16 cells)
+      • Evolved Sea Sparrow SAM
+    VLS Mk 41 (16 cells)
+      • RUM-139 VL ASROC
+",DD-105,Kure,50.8047148,-1.1667701,,Patrolling,78,79,80,84
+JS Samidare,Destroyer,Murasame,Japan,6205 long tons,156 m (495 ft),7054,35 knots (35 mph; 56 km/h),"
+    1 × 76 mm 62cal rapid fire gun (OTO Melara 3)
+    2 × missile canister up to 8 Type 90 (SSM-1B)
+    2 × 20 mm Phalanx CIWS
+    2 × Type 68 triple torpedo tubes
+    VLS Mk 48 (16 cells)
+      • Evolved Sea Sparrow SAM
+    VLS Mk 41 (16 cells)
+      • RUM-139 VL ASROC
+",DD-106,Kure,50.8047148,-1.1667701,,Patrolling,78,80,84,86
+JS Ikazuchi,Destroyer,Murasame,Japan,6206 long tons,157 m (495 ft),7055,36 knots (35 mph; 56 km/h),"
+    1 × 76 mm 62cal rapid fire gun (OTO Melara 3)
+    2 × missile canister up to 8 Type 90 (SSM-1B)
+    2 × 20 mm Phalanx CIWS
+    2 × Type 68 triple torpedo tubes
+    VLS Mk 48 (16 cells)
+      • Evolved Sea Sparrow SAM
+    VLS Mk 41 (16 cells)
+      • RUM-139 VL ASROC
+",DD-107,Yokosuka,35.2601108,139.5915011,,Patrolling,90,97,85,79
+JS Akebono,Destroyer,Murasame,Japan,6207 long tons,158 m (495 ft),7056,37 knots (35 mph; 56 km/h),"
+    1 × 76 mm 62cal rapid fire gun (OTO Melara 3)
+    2 × missile canister up to 8 Type 90 (SSM-1B)
+    2 × 20 mm Phalanx CIWS
+    2 × Type 68 triple torpedo tubes
+    VLS Mk 48 (16 cells)
+      • Evolved Sea Sparrow SAM
+    VLS Mk 41 (16 cells)
+      • RUM-139 VL ASROC
+",DD-108,Kure,50.8047148,-1.1667701,,Patrolling,67,69,89,87
+JS Ariake,Destroyer,Murasame,Japan,6208 long tons,159 m (495 ft),7057,38 knots (35 mph; 56 km/h),"
+    1 × 76 mm 62cal rapid fire gun (OTO Melara 3)
+    2 × missile canister up to 8 Type 90 (SSM-1B)
+    2 × 20 mm Phalanx CIWS
+    2 × Type 68 triple torpedo tubes
+    VLS Mk 48 (16 cells)
+      • Evolved Sea Sparrow SAM
+    VLS Mk 41 (16 cells)
+      • RUM-139 VL ASROC
+",DD-109,Kure,50.8047148,-1.1667701,,Relief Operation,78,79,90,98
+JS Asagiri,Destroyer,Asagiri,Japan,5200 long tons,137 m (449 ft 6 in),7058,30 knots (56 km/h; 35 mph),"
+    1 × Otobreda 76 mm gun
+    2 × missile canister up to 8 Harpoon SSM
+    2 × 20 mm Phalanx CIWS
+    1 × Mk.29 Sea Sparrow SAM octuple launcher
+    1 × Mk.16 ASROC anti-submarine rocket octuple launcher
+    2 × HOS-302A triple 324 mm (12.8 in) torpedo tubes
+",DD-151,Maizuru,50.8047148,-1.1667701,,Relief Operation,69,80,89,93
+JS Yamagiri,Destroyer,Asagiri,Japan,5201 long tons,138 m (449 ft 6 in),7059,31 knots (56 km/h; 35 mph),"
+    1 × Otobreda 76 mm gun
+    2 × missile canister up to 8 Harpoon SSM
+    2 × 20 mm Phalanx CIWS
+    1 × Mk.29 Sea Sparrow SAM octuple launcher
+    1 × Mk.16 ASROC anti-submarine rocket octuple launcher
+    2 × HOS-302A triple 324 mm (12.8 in) torpedo tubes
+",DD-152,Yokosuka,35.2601108,139.5915011,,Relief Operation,56,87,90,87
+JS Yugiri,Destroyer,Asagiri,Japan,5202 long tons,139 m (449 ft 6 in),7060,32 knots (56 km/h; 35 mph),"
+    1 × Otobreda 76 mm gun
+    2 × missile canister up to 8 Harpoon SSM
+    2 × 20 mm Phalanx CIWS
+    1 × Mk.29 Sea Sparrow SAM octuple launcher
+    1 × Mk.16 ASROC anti-submarine rocket octuple launcher
+    2 × HOS-302A triple 324 mm (12.8 in) torpedo tubes
+",DD-153,Ominato,50.8047148,-1.1667701,,Relief Operation,78,89,89,90
+JS Amagiri,Destroyer,Asagiri,Japan,5203 long tons,140 m (449 ft 6 in),7061,33 knots (56 km/h; 35 mph),"
+    1 × Otobreda 76 mm gun
+    2 × missile canister up to 8 Harpoon SSM
+    2 × 20 mm Phalanx CIWS
+    1 × Mk.29 Sea Sparrow SAM octuple launcher
+    1 × Mk.16 ASROC anti-submarine rocket octuple launcher
+    2 × HOS-302A triple 324 mm (12.8 in) torpedo tubes
+",DD-154,Kure,50.8047148,-1.1667701,,Anti Piracy,55,60,78,80
+JS Hamagiri,Destroyer,Asagiri,Japan,5204 long tons,141 m (449 ft 6 in),7062,34 knots (56 km/h; 35 mph),"
+    1 × Otobreda 76 mm gun
+    2 × missile canister up to 8 Harpoon SSM
+    2 × 20 mm Phalanx CIWS
+    1 × Mk.29 Sea Sparrow SAM octuple launcher
+    1 × Mk.16 ASROC anti-submarine rocket octuple launcher
+    2 × HOS-302A triple 324 mm (12.8 in) torpedo tubes
+",DD-155,Maizuru,50.8047148,-1.1667701,,Anti Piracy,89,92,79,86

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_10f6dc6cc2b8141157dcdde8bfa20e66 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_10f6dc6cc2b8141157dcdde8bfa20e66" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_10f6dc6cc2b8141157dcdde8bfa20e66 = L.map(
+                "map_10f6dc6cc2b8141157dcdde8bfa20e66",
+                {
+                    center: [15.185833, 69.112],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_5225b23aed9ed2eda26655731c42582c = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_5225b23aed9ed2eda26655731c42582c.addTo(map_10f6dc6cc2b8141157dcdde8bfa20e66);
+        
+    
+            var marker_ec36aa71dac76a0c44e9b61184eb0e7e = L.marker(
+                [17.7386225, 85.1225031],
+                {}
+            ).addTo(map_10f6dc6cc2b8141157dcdde8bfa20e66);
+        
+    
+            var icon_f317154eb89ef8caf3424873db0d9177 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "black", "prefix": "fa"}
+            );
+            marker_ec36aa71dac76a0c44e9b61184eb0e7e.setIcon(icon_f317154eb89ef8caf3424873db0d9177);
+        
+    
+        var popup_8a144e0baec023ab661cc2e51678e056 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_94a01322762c8be88e45bc0afbca8f95 = $(`<div id="html_94a01322762c8be88e45bc0afbca8f95" style="width: 100.0%; height: 100.0%;">('INS Kadmatt', 91.74025982498415)</div>`)[0];
+                popup_8a144e0baec023ab661cc2e51678e056.setContent(html_94a01322762c8be88e45bc0afbca8f95);
+            
+        
+
+        marker_ec36aa71dac76a0c44e9b61184eb0e7e.bindPopup(popup_8a144e0baec023ab661cc2e51678e056)
+        ;
+
+        
+    
+    
+            marker_ec36aa71dac76a0c44e9b61184eb0e7e.bindTooltip(
+                `<div>
+                     ('INS Kadmatt', 91.74025982498415)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            tile_layer_5225b23aed9ed2eda26655731c42582c.addTo(map_10f6dc6cc2b8141157dcdde8bfa20e66);
+        
+    
+            var marker_c6ede3924271d85628932d79adebe046 = L.marker(
+                [16.3821978, 69.7410981],
+                {}
+            ).addTo(map_10f6dc6cc2b8141157dcdde8bfa20e66);
+        
+    
+            var icon_eb1fc7749a662dc0db98583a8b096b1d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "black", "prefix": "fa"}
+            );
+            marker_c6ede3924271d85628932d79adebe046.setIcon(icon_eb1fc7749a662dc0db98583a8b096b1d);
+        
+    
+        var popup_b1f5b64b2aa1373445c5075e2df9cce3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_19091e66f7a9a391edda995201d29627 = $(`<div id="html_19091e66f7a9a391edda995201d29627" style="width: 100.0%; height: 100.0%;">('INS Mumbai', 90.41377069113327)</div>`)[0];
+                popup_b1f5b64b2aa1373445c5075e2df9cce3.setContent(html_19091e66f7a9a391edda995201d29627);
+            
+        
+
+        marker_c6ede3924271d85628932d79adebe046.bindPopup(popup_b1f5b64b2aa1373445c5075e2df9cce3)
+        ;
+
+        
+    
+    
+            marker_c6ede3924271d85628932d79adebe046.bindTooltip(
+                `<div>
+                     ('INS Mumbai', 90.41377069113327)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            tile_layer_5225b23aed9ed2eda26655731c42582c.addTo(map_10f6dc6cc2b8141157dcdde8bfa20e66);
+        
+    
+            var marker_e5f50f5b81529337581a9abd1aa00e0e = L.marker(
+                [10.661984, 95.5389112],
+                {}
+            ).addTo(map_10f6dc6cc2b8141157dcdde8bfa20e66);
+        
+    
+            var icon_e06a0f06a1537668e7371ab42024533c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "black", "prefix": "fa"}
+            );
+            marker_e5f50f5b81529337581a9abd1aa00e0e.setIcon(icon_e06a0f06a1537668e7371ab42024533c);
+        
+    
+        var popup_97e7a714111522f00f4ec03b88f518e4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5df4126584c2ef16dd3958912369fb28 = $(`<div id="html_5df4126584c2ef16dd3958912369fb28" style="width: 100.0%; height: 100.0%;">('INS Trikand', 89.76170504718552)</div>`)[0];
+                popup_97e7a714111522f00f4ec03b88f518e4.setContent(html_5df4126584c2ef16dd3958912369fb28);
+            
+        
+
+        marker_e5f50f5b81529337581a9abd1aa00e0e.bindPopup(popup_97e7a714111522f00f4ec03b88f518e4)
+        ;
+
+        
+    
+    
+            marker_e5f50f5b81529337581a9abd1aa00e0e.bindTooltip(
+                `<div>
+                     ('INS Trikand', 89.76170504718552)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>

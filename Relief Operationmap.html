@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_4f879efd4fe27c3775f392c076bdf564 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_4f879efd4fe27c3775f392c076bdf564" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_4f879efd4fe27c3775f392c076bdf564 = L.map(
+                "map_4f879efd4fe27c3775f392c076bdf564",
+                {
+                    center: [15.185833, 69.112],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_68e6a158126fecad4cceedef99b41145 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_4f879efd4fe27c3775f392c076bdf564);
+        
+    
+            var marker_7c00d3c9c8de950215a20352ad56ea9c = L.marker(
+                [18.7821978, 72.7410981],
+                {}
+            ).addTo(map_4f879efd4fe27c3775f392c076bdf564);
+        
+    
+            var icon_7efc11b238aecd70aea85c0901be5970 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "black", "prefix": "fa"}
+            );
+            marker_7c00d3c9c8de950215a20352ad56ea9c.setIcon(icon_7efc11b238aecd70aea85c0901be5970);
+        
+    
+        var popup_7e9191ef5256bc047ece1748a4e0a421 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a581cd07ec561cd42f7288e54789516a = $(`<div id="html_a581cd07ec561cd42f7288e54789516a" style="width: 100.0%; height: 100.0%;">('INS Sahyadri', 88.04796713865464)</div>`)[0];
+                popup_7e9191ef5256bc047ece1748a4e0a421.setContent(html_a581cd07ec561cd42f7288e54789516a);
+            
+        
+
+        marker_7c00d3c9c8de950215a20352ad56ea9c.bindPopup(popup_7e9191ef5256bc047ece1748a4e0a421)
+        ;
+
+        
+    
+    
+            marker_7c00d3c9c8de950215a20352ad56ea9c.bindTooltip(
+                `<div>
+                     ('INS Sahyadri', 88.04796713865464)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_a1d70b1c0532d77c73a535dba1b140c2 = L.marker(
+                [7.798095, 91.692677],
+                {}
+            ).addTo(map_4f879efd4fe27c3775f392c076bdf564);
+        
+    
+            var icon_417c5066ccc4362fccd25b5cabd4c779 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "black", "prefix": "fa"}
+            );
+            marker_a1d70b1c0532d77c73a535dba1b140c2.setIcon(icon_417c5066ccc4362fccd25b5cabd4c779);
+        
+    
+        var popup_dc693726f62ac65e96cf5471f59a8343 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ea4cae7c3d374f6d4c88a13e49221e77 = $(`<div id="html_ea4cae7c3d374f6d4c88a13e49221e77" style="width: 100.0%; height: 100.0%;">('INS Cheetah', 87.27391360840386)</div>`)[0];
+                popup_dc693726f62ac65e96cf5471f59a8343.setContent(html_ea4cae7c3d374f6d4c88a13e49221e77);
+            
+        
+
+        marker_a1d70b1c0532d77c73a535dba1b140c2.bindPopup(popup_dc693726f62ac65e96cf5471f59a8343)
+        ;
+
+        
+    
+    
+            marker_a1d70b1c0532d77c73a535dba1b140c2.bindTooltip(
+                `<div>
+                     ('INS Cheetah', 87.27391360840386)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_49fd459a297a4983d38f22af0c271323 = L.marker(
+                [50.8047148, -1.1667701],
+                {}
+            ).addTo(map_4f879efd4fe27c3775f392c076bdf564);
+        
+    
+            var icon_e72c6f4ef12d90566feb02b6da28f1c4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "black", "prefix": "fa"}
+            );
+            marker_49fd459a297a4983d38f22af0c271323.setIcon(icon_e72c6f4ef12d90566feb02b6da28f1c4);
+        
+    
+        var popup_282f5acde740a7e4d486292e343cd35a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0e4aef665a506c2647f687cbef279421 = $(`<div id="html_0e4aef665a506c2647f687cbef279421" style="width: 100.0%; height: 100.0%;">('HMS Portland', 85.43001345009978)</div>`)[0];
+                popup_282f5acde740a7e4d486292e343cd35a.setContent(html_0e4aef665a506c2647f687cbef279421);
+            
+        
+
+        marker_49fd459a297a4983d38f22af0c271323.bindPopup(popup_282f5acde740a7e4d486292e343cd35a)
+        ;
+
+        
+    
+    
+            marker_49fd459a297a4983d38f22af0c271323.bindTooltip(
+                `<div>
+                     ('HMS Portland', 85.43001345009978)
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>

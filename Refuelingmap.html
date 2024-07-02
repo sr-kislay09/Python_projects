@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_04c2fa332d20409231e31ddf6ab0f63e {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_04c2fa332d20409231e31ddf6ab0f63e" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_04c2fa332d20409231e31ddf6ab0f63e = L.map(
+                "map_04c2fa332d20409231e31ddf6ab0f63e",
+                {
+                    center: [15.185833, 69.112],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 5,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c9a770cea94bd8e1d304cda395aadb0b = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_c9a770cea94bd8e1d304cda395aadb0b.addTo(map_04c2fa332d20409231e31ddf6ab0f63e);
+        
+    
+            var marker_47955b97af23645f0feda36f574a0c94 = L.marker(
+                [19.2221978, 72.7410981],
+                {}
+            ).addTo(map_04c2fa332d20409231e31ddf6ab0f63e);
+        
+    
+            var icon_7e06a841d4ff4af815bec4d977fc5162 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_47955b97af23645f0feda36f574a0c94.setIcon(icon_7e06a841d4ff4af815bec4d977fc5162);
+        
+    
+        var popup_bcc0c8f7c77e9b2632e1dfd7c7d130a6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5fc5489a74b50fbbdcaa730a4c2b5915 = $(`<div id="html_5fc5489a74b50fbbdcaa730a4c2b5915" style="width: 100.0%; height: 100.0%;">('INS Deepak', nan, 'India', 'Tanker', 'Deepak', nan, '175 m (574 ft)')</div>`)[0];
+                popup_bcc0c8f7c77e9b2632e1dfd7c7d130a6.setContent(html_5fc5489a74b50fbbdcaa730a4c2b5915);
+            
+        
+
+        marker_47955b97af23645f0feda36f574a0c94.bindPopup(popup_bcc0c8f7c77e9b2632e1dfd7c7d130a6)
+        ;
+
+        
+    
+    
+            marker_47955b97af23645f0feda36f574a0c94.bindTooltip(
+                `<div>
+                     ('INS Deepak', nan, 'India', 'Tanker', 'Deepak', nan, '175 m (574 ft)')
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            tile_layer_c9a770cea94bd8e1d304cda395aadb0b.addTo(map_04c2fa332d20409231e31ddf6ab0f63e);
+        
+    
+            var marker_598321bd866599e8cdd46da45fd17052 = L.marker(
+                [8.5596766, 73.878655],
+                {}
+            ).addTo(map_04c2fa332d20409231e31ddf6ab0f63e);
+        
+    
+            var icon_c2018e0ce41938ef206b9d41e52fa270 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_598321bd866599e8cdd46da45fd17052.setIcon(icon_c2018e0ce41938ef206b9d41e52fa270);
+        
+    
+        var popup_1c330db8869cd1ce86d3cf7e7d98035d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_169753f7aff8b2d49a485302ca80371e = $(`<div id="html_169753f7aff8b2d49a485302ca80371e" style="width: 100.0%; height: 100.0%;">('INS Shakti', nan, 'India', 'Tanker', 'Deepak', nan, '175 m (574 ft)')</div>`)[0];
+                popup_1c330db8869cd1ce86d3cf7e7d98035d.setContent(html_169753f7aff8b2d49a485302ca80371e);
+            
+        
+
+        marker_598321bd866599e8cdd46da45fd17052.bindPopup(popup_1c330db8869cd1ce86d3cf7e7d98035d)
+        ;
+
+        
+    
+    
+            marker_598321bd866599e8cdd46da45fd17052.bindTooltip(
+                `<div>
+                     ('INS Shakti', nan, 'India', 'Tanker', 'Deepak', nan, '175 m (574 ft)')
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            tile_layer_c9a770cea94bd8e1d304cda395aadb0b.addTo(map_04c2fa332d20409231e31ddf6ab0f63e);
+        
+    
+            var marker_15840462c22cdf5ec04617b59ed43e17 = L.marker(
+                [4.9765555, 74.48099],
+                {}
+            ).addTo(map_04c2fa332d20409231e31ddf6ab0f63e);
+        
+    
+            var icon_f033519ad33eb983c74ae3812f78053f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_15840462c22cdf5ec04617b59ed43e17.setIcon(icon_f033519ad33eb983c74ae3812f78053f);
+        
+    
+        var popup_1c2d2dc240782ef10ce999246d03ee88 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bbcf1beaf9ab790c4329ad4d4b6c91f9 = $(`<div id="html_bbcf1beaf9ab790c4329ad4d4b6c91f9" style="width: 100.0%; height: 100.0%;">('INS Aditya', nan, 'India', 'Tanker', 'Deepak', nan, '172 m (564 ft)')</div>`)[0];
+                popup_1c2d2dc240782ef10ce999246d03ee88.setContent(html_bbcf1beaf9ab790c4329ad4d4b6c91f9);
+            
+        
+
+        marker_15840462c22cdf5ec04617b59ed43e17.bindPopup(popup_1c2d2dc240782ef10ce999246d03ee88)
+        ;
+
+        
+    
+    
+            marker_15840462c22cdf5ec04617b59ed43e17.bindTooltip(
+                `<div>
+                     ('INS Aditya', nan, 'India', 'Tanker', 'Deepak', nan, '172 m (564 ft)')
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            tile_layer_c9a770cea94bd8e1d304cda395aadb0b.addTo(map_04c2fa332d20409231e31ddf6ab0f63e);
+        
+    
+            var marker_24a9cdd733e6a140cf0d1e5dfa3ff93f = L.marker(
+                [21.061936, 88.0236771],
+                {}
+            ).addTo(map_04c2fa332d20409231e31ddf6ab0f63e);
+        
+    
+            var icon_4b439c199cb3b3a1ec2b6d097b4986c2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_24a9cdd733e6a140cf0d1e5dfa3ff93f.setIcon(icon_4b439c199cb3b3a1ec2b6d097b4986c2);
+        
+    
+        var popup_5bad9fbb8b1ceac652dbb4a8be380a00 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2d215e95c40c56bc07578fac1d2e0f0a = $(`<div id="html_2d215e95c40c56bc07578fac1d2e0f0a" style="width: 100.0%; height: 100.0%;">('INS Jyoti', nan, 'India', 'Tanker', 'Komandarm', nan, '178 m (584 ft)')</div>`)[0];
+                popup_5bad9fbb8b1ceac652dbb4a8be380a00.setContent(html_2d215e95c40c56bc07578fac1d2e0f0a);
+            
+        
+
+        marker_24a9cdd733e6a140cf0d1e5dfa3ff93f.bindPopup(popup_5bad9fbb8b1ceac652dbb4a8be380a00)
+        ;
+
+        
+    
+    
+            marker_24a9cdd733e6a140cf0d1e5dfa3ff93f.bindTooltip(
+                `<div>
+                     ('INS Jyoti', nan, 'India', 'Tanker', 'Komandarm', nan, '178 m (584 ft)')
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            tile_layer_c9a770cea94bd8e1d304cda395aadb0b.addTo(map_04c2fa332d20409231e31ddf6ab0f63e);
+        
+    
+            var marker_3cc5495414fc890e8700ccd65ae08c3f = L.marker(
+                [38.8936708, -77.1546618],
+                {}
+            ).addTo(map_04c2fa332d20409231e31ddf6ab0f63e);
+        
+    
+            var icon_cd00a1cf990b4bd08d4eb85fc3fea805 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "ship", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_3cc5495414fc890e8700ccd65ae08c3f.setIcon(icon_cd00a1cf990b4bd08d4eb85fc3fea805);
+        
+    
+        var popup_3bf53f8326d108b383766e7779aed07a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8d193ad0fe8c80610438e7b2365c909e = $(`<div id="html_8d193ad0fe8c80610438e7b2365c909e" style="width: 100.0%; height: 100.0%;">('USS Abraham Lincoln', 'CVN-72', 'US', 'Aircraft carrier', 'Nimitz', '30Â\xa0kn (56Â\xa0km/h; 35Â\xa0mph)', '332.8 m')</div>`)[0];
+                popup_3bf53f8326d108b383766e7779aed07a.setContent(html_8d193ad0fe8c80610438e7b2365c909e);
+            
+        
+
+        marker_3cc5495414fc890e8700ccd65ae08c3f.bindPopup(popup_3bf53f8326d108b383766e7779aed07a)
+        ;
+
+        
+    
+    
+            marker_3cc5495414fc890e8700ccd65ae08c3f.bindTooltip(
+                `<div>
+                     ('USS Abraham Lincoln', 'CVN-72', 'US', 'Aircraft carrier', 'Nimitz', '30Â\xa0kn (56Â\xa0km/h; 35Â\xa0mph)', '332.8 m')
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>
